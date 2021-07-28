@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Secondday9_7_21</RootNamespace>
+    <StartupObject>Secondday9_7_21.VirtualEg</StartupObject>
+  </PropertyGroup>
+
+</Project>

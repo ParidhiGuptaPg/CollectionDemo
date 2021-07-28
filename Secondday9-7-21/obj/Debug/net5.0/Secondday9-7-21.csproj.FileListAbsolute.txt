@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.AssemblyInfo.cs
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.exe
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.deps.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.runtimeconfig.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.runtimeconfig.dev.json
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\ref\Secondday9-7-21.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\bin\Debug\net5.0\Secondday9-7-21.pdb
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\ref\Secondday9-7-21.dll
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.pdb
+C:\Users\admin\Desktop\LTI modules\C sharp\Prjcommandlineapp\Prjcommandlineapp\Secondday9-7-21\obj\Debug\net5.0\Secondday9-7-21.genruntimeconfig.cache
